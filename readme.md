@@ -1,3 +1,3 @@
-# Lumina Creative
+# Baobab Data Solutions
 
-Simple HTML/CSS website for a creative agency.
+Simple HTML/CSS website for a data analytics company
